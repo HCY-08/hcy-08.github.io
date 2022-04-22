@@ -6,7 +6,7 @@
   <link href="https://hcy-08.github.io/atom.xml" rel="self"/>
   
   <link href="https://hcy-08.github.io/"/>
-  <updated>2022-04-22T10:17:40.477Z</updated>
+  <updated>2022-04-22T17:48:01.637Z</updated>
   <id>https://hcy-08.github.io/</id>
   
   <author>
@@ -17,20 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>First time to write my blog</title>
+    <title>First Blog</title>
     <link href="https://hcy-08.github.io/2022/04/22/First-time-to-write-my-blog/"/>
     <id>https://hcy-08.github.io/2022/04/22/First-time-to-write-my-blog/</id>
     <published>2022-04-22T09:23:54.000Z</published>
-    <updated>2022-04-22T10:17:40.477Z</updated>
+    <updated>2022-04-22T17:48:01.637Z</updated>
     
-    <content type="html"><![CDATA[<!-- <font color=#700000><h1>前言</h1></font> --><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>這是我第一次寫網誌，想要在這裡記錄一些點滴<br>使用了 Github Page + Hexo，主題是 Apollo，目前設成 private<br>目前還正在構思網誌的架構，也許會分成幾個部分:</p><h4 id="1-心情隨筆"><a href="#1-心情隨筆" class="headerlink" title="1. 心情隨筆"></a>1. 心情隨筆</h4><p>這部分會是平常情緒的體驗，或是當下有什麼臨時的感悟或感覺，結束一天的心得或抒發</p><h4 id="2-程式紀錄"><a href="#2-程式紀錄" class="headerlink" title="2. 程式紀錄"></a>2. 程式紀錄</h4><p>用這部分來記錄我的程式能力的成長，以及一些程式備忘錄</p><h4 id="3-探險筆記"><a href="#3-探險筆記" class="headerlink" title="3. 探險筆記"></a>3. 探險筆記</h4><p>記錄我的足跡，去過的一些有趣地方，體驗的一些有趣人事物</p><h2 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h2><p>看起來 Apollo 主題在處理 &lt;h3&gt; 時會印出一個 “#”，不確定是不是 bug<br>“—“ 的分隔線也是透明的，暫時先用 “&#x3D;&#x3D;&#x3D;” 代替<br>還有未來文章變多，會需要處理文章分類的問題<br>不過就來截圖紀念一下我的新網誌吧，順便測試 Markdown 的功能<br>圖片位址先暫訂 <code>source/img</code></p><!-- <center><h4>首頁</h4></center> --><h4 id="首頁"><a href="#首頁" class="headerlink" title="首頁"></a>首頁</h4><p><img src="/../img/First-p1.png"></p><!-- <center><h4>第一篇文</h4></center> --><h4 id="第一篇文"><a href="#第一篇文" class="headerlink" title="第一篇文"></a>第一篇文</h4><p><img src="/../img/First-p2.png"></p><h2 id="結語"><a href="#結語" class="headerlink" title="結語"></a>結語</h2><p>給自己個小期許，希望可以做到每天更新<br>也希望未來回來看到這篇時能覺得懷舊又陽春</p><p>HCY 2022&#x2F;04&#x2F;22</p>]]></content>
+    <content type="html"><![CDATA[<p><font color=#c86060><h1>前言</h1></font></p><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>這是我第一次寫網誌，想要在這裡記錄一些點滴<br>使用了 Github Page + Hexo，主題是 Apollo，目前設成 private<br>目前還正在構思網誌的架構，也許會分成幾個部分：</p><h4 id="1-心情隨筆"><a href="#1-心情隨筆" class="headerlink" title="1. 心情隨筆"></a>1. 心情隨筆</h4><p>這部分會是平常情緒的體驗，或是當下有什麼臨時的感悟或感覺，結束一天的心得或抒發</p><h4 id="2-程式紀錄"><a href="#2-程式紀錄" class="headerlink" title="2. 程式紀錄"></a>2. 程式紀錄</h4><p>用這部分來記錄我的程式能力的成長，以及一些程式備忘錄<br>以下測試程式碼</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;stdio.h&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">()</span> &#123;</span><br><span class="line">    <span class="built_in">printf</span>(<span class="string">&quot;Testing Markdown&quot;</span>);</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h4 id="3-探險筆記"><a href="#3-探險筆記" class="headerlink" title="3. 探險筆記"></a>3. 探險筆記</h4><p>記錄我的足跡，去過的一些有趣地方，體驗的一些有趣人事物</p><h2 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h2><p>看起來 Apollo 主題在處理 &lt;h3&gt; 時會印出一個 “#”，不確定是不是 bug<br>“—“ 的分隔線也是透明的，暫時先用 “&#x3D;&#x3D;&#x3D;” 代替<br>還有未來文章變多之後，會需要處理文章分類的問題<br>不過就來截圖紀念一下我的新網誌吧，順便測試 Markdown 的功能<br>圖片位址先暫訂 <code>source/img</code></p><!-- <center><h4>首頁</h4></center> --><h4 id="首頁"><a href="#首頁" class="headerlink" title="首頁"></a>首頁</h4><p><img src="/../img/First-p1.png"></p><!-- <center><h4>第一篇文</h4></center> --><h4 id="第一篇文"><a href="#第一篇文" class="headerlink" title="第一篇文"></a>第一篇文</h4><p><img src="/../img/First-p2.png"></p><h2 id="結語"><a href="#結語" class="headerlink" title="結語"></a>結語</h2><p>給自己個小期許，希望可以做到每天更新<br>也希望未來回來看到這篇時能覺得懷舊又陽春</p><p>- HCY 2022&#x2F;04&#x2F;22</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;!-- &lt;font color=#700000&gt;&lt;h1&gt;前言&lt;/h1&gt;&lt;/font&gt; --&gt;
-
-&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;這是我第一次寫網誌，想要在這裡記錄一些點滴</summary>
+    <summary type="html">&lt;p&gt;&lt;font color=#c86060&gt;&lt;h1&gt;前言&lt;/h1&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;這是我第一次寫網誌，想要在這裡記錄一些點滴&lt;br</summary>
       
     
     
