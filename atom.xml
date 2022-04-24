@@ -6,7 +6,7 @@
   <link href="https://hcy-08.github.io/atom.xml" rel="self"/>
   
   <link href="https://hcy-08.github.io/"/>
-  <updated>2022-04-24T04:05:02.247Z</updated>
+  <updated>2022-04-24T07:01:55.540Z</updated>
   <id>https://hcy-08.github.io/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Melody</title>
+    <link href="https://hcy-08.github.io/2022/04/24/Melody/"/>
+    <id>https://hcy-08.github.io/2022/04/24/Melody/</id>
+    <published>2022-04-24T06:41:07.000Z</published>
+    <updated>2022-04-24T07:01:55.540Z</updated>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="29ab4c5e9fc806bd446ada5059de99b816b1328621f8cc0b85b4693bdd3cf0d8">800b65da687d72f7400e01e7b9d58d72fcebcaabd1d2611e0bead5dfef60685285b59f6fb3c76f067e54519e7226288c377a9b2c81108e30ceea2abd22e0349618542fbe6731db495588c4120bd7791a54c1cdbe67a41feccfab117b6d37b470ecb3c905a973dbdf5bd1bbb35c63ee9bb88beaa373aeecc12c2eab51564884d9a09ff2c5bc605e7f3a9cfb3e1b00bd27c9314e6c7e10b38f4e2d410e33ec01fda4ffd02cdfb224a8c9499ef0b045c5d0c377bbd27610d542bad9dc7af5464918</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Enter Password</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Joyful</title>
