@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://hcy-08.github.io/2022/04/22/First-Blog/</loc>
+    <loc>https://hcy-08.github.io/about/index.html</loc>
     
-    <lastmod>2022-04-23</lastmod>
+    <lastmod>2022-04-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,34 @@
   <url>
     <loc>https://hcy-08.github.io/2022/04/23/Joyful/</loc>
     
-    <lastmod>2022-04-23</lastmod>
+    <lastmod>2022-04-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hcy-08.github.io/tags/index.html</loc>
+    
+    <lastmod>2022-04-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hcy-08.github.io/2022/04/22/First-Blog/</loc>
+    
+    <lastmod>2022-04-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hcy-08.github.io/categories/index.html</loc>
+    
+    <lastmod>2022-04-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -37,6 +64,20 @@
   </url>
 
   
+  <url>
+    <loc>https://hcy-08.github.io/tags/Joy/</loc>
+    <lastmod>2022-04-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://hcy-08.github.io/categories/HCY/</loc>
+    <lastmod>2022-04-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>

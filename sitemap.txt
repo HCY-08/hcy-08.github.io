@@ -1,4 +1,9 @@
-https://hcy-08.github.io/2022/04/22/First-Blog/
+https://hcy-08.github.io/about/index.html
 https://hcy-08.github.io/2022/04/23/Joyful/
+https://hcy-08.github.io/tags/index.html
+https://hcy-08.github.io/2022/04/22/First-Blog/
+https://hcy-08.github.io/categories/index.html
 https://hcy-08.github.io/2022/04/21/hello-world/
 https://hcy-08.github.io/
+https://hcy-08.github.io/tags/Joy/
+https://hcy-08.github.io/categories/HCY/
