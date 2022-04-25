@@ -2,16 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://hcy-08.github.io/2022/04/25/London-Fog/</loc>
-    
-    <lastmod>2022-04-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hcy-08.github.io/2022/04/25/4-25-Update-Log/</loc>
+    <loc>https://hcy-08.github.io/about/index.html</loc>
     
     <lastmod>2022-04-25</lastmod>
     
@@ -29,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://hcy-08.github.io/about/index.html</loc>
+    <loc>https://hcy-08.github.io/2022/04/25/4-25-Update-Log/</loc>
     
     <lastmod>2022-04-25</lastmod>
     
@@ -56,6 +47,24 @@
   </url>
   
   <url>
+    <loc>https://hcy-08.github.io/2022/04/22/First-Blog/</loc>
+    
+    <lastmod>2022-04-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hcy-08.github.io/2022/04/25/London-Fog/</loc>
+    
+    <lastmod>2022-04-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hcy-08.github.io/2022/04/24/JS-Fetching-Data/</loc>
     
     <lastmod>2022-04-24</lastmod>
@@ -66,15 +75,6 @@
   
   <url>
     <loc>https://hcy-08.github.io/2022/04/21/hello-world/</loc>
-    
-    <lastmod>2022-04-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hcy-08.github.io/2022/04/22/First-Blog/</loc>
     
     <lastmod>2022-04-24</lastmod>
     
