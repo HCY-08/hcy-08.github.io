@@ -1,4 +1,3 @@
-https://hcy-08.github.io/2022/04/26/test/
 https://hcy-08.github.io/2022/04/25/London-Fog/
 https://hcy-08.github.io/2022/04/24/JS-Fetching-Data/
 https://hcy-08.github.io/2022/04/26/C-Linked-List-Practice/
@@ -15,7 +14,7 @@ https://hcy-08.github.io/categories/index.html
 https://hcy-08.github.io/
 https://hcy-08.github.io/tags/Ms-S/
 https://hcy-08.github.io/categories/Blog-Log/
-https://hcy-08.github.io/categories/Coding/
 https://hcy-08.github.io/categories/Start/
 https://hcy-08.github.io/categories/Adventure/
 https://hcy-08.github.io/categories/Others/
+https://hcy-08.github.io/categories/Coding/
