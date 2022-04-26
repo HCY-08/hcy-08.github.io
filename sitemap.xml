@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hcy-08.github.io/2022/04/26/4-26-Update-Log/</loc>
+    
+    <lastmod>2022-04-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hcy-08.github.io/2022/04/26/JS-Function-Practice/</loc>
     
     <lastmod>2022-04-26</lastmod>
@@ -21,15 +30,6 @@
   
   <url>
     <loc>https://hcy-08.github.io/2022/04/26/C-Linked-List-Practice/</loc>
-    
-    <lastmod>2022-04-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hcy-08.github.io/2022/04/26/4-26-Update-Log/</loc>
     
     <lastmod>2022-04-26</lastmod>
     
@@ -167,13 +167,6 @@
   </url>
   
   <url>
-    <loc>https://hcy-08.github.io/categories/Adventure/</loc>
-    <lastmod>2022-04-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://hcy-08.github.io/categories/Coding/C/</loc>
     <lastmod>2022-04-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -182,6 +175,13 @@
   
   <url>
     <loc>https://hcy-08.github.io/categories/Coding/JS/</loc>
+    <lastmod>2022-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hcy-08.github.io/categories/Adventure/</loc>
     <lastmod>2022-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
