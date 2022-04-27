@@ -11,15 +11,6 @@
   </url>
   
   <url>
-    <loc>https://hcy-08.github.io/2022/04/28/Interrupt/</loc>
-    
-    <lastmod>2022-04-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hcy-08.github.io/2022/04/28/Planning-To-Update/</loc>
     
     <lastmod>2022-04-27</lastmod>
@@ -200,13 +191,6 @@
 
   
   <url>
-    <loc>https://hcy-08.github.io/tags/Adventure-Life/</loc>
-    <lastmod>2022-04-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://hcy-08.github.io/tags/Ms-S/</loc>
     <lastmod>2022-04-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -230,13 +214,6 @@
   </url>
   
   <url>
-    <loc>https://hcy-08.github.io/categories/Start/</loc>
-    <lastmod>2022-04-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://hcy-08.github.io/categories/Coding/</loc>
     <lastmod>2022-04-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -251,6 +228,13 @@
   </url>
   
   <url>
+    <loc>https://hcy-08.github.io/categories/Start/</loc>
+    <lastmod>2022-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://hcy-08.github.io/categories/Coding/C/</loc>
     <lastmod>2022-04-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -258,14 +242,14 @@
   </url>
   
   <url>
-    <loc>https://hcy-08.github.io/categories/Adventure/Dream/</loc>
+    <loc>https://hcy-08.github.io/categories/Adventure/Past/</loc>
     <lastmod>2022-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hcy-08.github.io/categories/Adventure/Past/</loc>
+    <loc>https://hcy-08.github.io/categories/Adventure/Dream/</loc>
     <lastmod>2022-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -286,14 +270,14 @@
   </url>
   
   <url>
-    <loc>https://hcy-08.github.io/categories/Others/</loc>
+    <loc>https://hcy-08.github.io/categories/Blog-Log/Planning/</loc>
     <lastmod>2022-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hcy-08.github.io/categories/Blog-Log/Planning/</loc>
+    <loc>https://hcy-08.github.io/categories/Others/</loc>
     <lastmod>2022-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
