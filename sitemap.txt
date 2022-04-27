@@ -1,7 +1,7 @@
+https://hcy-08.github.io/2022/04/27/4-27-Update-Log/
 https://hcy-08.github.io/2022/04/28/Interrupt/
 https://hcy-08.github.io/2022/04/28/Planning-To-Update/
 https://hcy-08.github.io/2022/04/27/Fifth-Day-Away/
-https://hcy-08.github.io/2022/04/27/4-27-Update-Log/
 https://hcy-08.github.io/2022/04/27/Junior-High-and-Performance/
 https://hcy-08.github.io/2022/04/26/Problems-And-Bugs/
 https://hcy-08.github.io/2022/04/25/London-Fog/
@@ -24,8 +24,8 @@ https://hcy-08.github.io/tags/Adventure-Life/
 https://hcy-08.github.io/tags/Ms-S/
 https://hcy-08.github.io/categories/Blog-Log/
 https://hcy-08.github.io/categories/Blog-Log/Update/
-https://hcy-08.github.io/categories/Coding/
 https://hcy-08.github.io/categories/Start/
+https://hcy-08.github.io/categories/Coding/
 https://hcy-08.github.io/categories/Adventure/
 https://hcy-08.github.io/categories/Coding/C/
 https://hcy-08.github.io/categories/Adventure/Dream/
