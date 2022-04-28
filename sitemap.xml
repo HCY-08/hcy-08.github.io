@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hcy-08.github.io/2022/04/28/4-28-Update-Log/</loc>
+    
+    <lastmod>2022-04-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hcy-08.github.io/2022/04/29/Customs/</loc>
     
     <lastmod>2022-04-28</lastmod>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>https://hcy-08.github.io/2022/04/29/Z-Template/</loc>
-    
-    <lastmod>2022-04-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hcy-08.github.io/2022/04/28/4-28-Update-Log/</loc>
     
     <lastmod>2022-04-28</lastmod>
     
@@ -257,13 +257,6 @@
   </url>
   
   <url>
-    <loc>https://hcy-08.github.io/categories/Blog-Log-Customs/</loc>
-    <lastmod>2022-04-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://hcy-08.github.io/categories/Adventure/</loc>
     <lastmod>2022-04-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -278,7 +271,7 @@
   </url>
   
   <url>
-    <loc>https://hcy-08.github.io/categories/Others/</loc>
+    <loc>https://hcy-08.github.io/categories/Blog-Log-Customs/</loc>
     <lastmod>2022-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -293,13 +286,6 @@
   
   <url>
     <loc>https://hcy-08.github.io/categories/Blog-Log/Planning/</loc>
-    <lastmod>2022-04-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hcy-08.github.io/categories/Blog-Log/Bugs/</loc>
     <lastmod>2022-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -328,6 +314,20 @@
   
   <url>
     <loc>https://hcy-08.github.io/categories/Adventure/Life/</loc>
+    <lastmod>2022-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hcy-08.github.io/categories/Others/</loc>
+    <lastmod>2022-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hcy-08.github.io/categories/Blog-Log/Bugs/</loc>
     <lastmod>2022-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
