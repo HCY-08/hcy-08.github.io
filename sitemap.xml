@@ -341,6 +341,13 @@
   </url>
   
   <url>
+    <loc>https://hcy-08.github.io/categories/Coding/Note/</loc>
+    <lastmod>2022-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://hcy-08.github.io/categories/Others/</loc>
     <lastmod>2022-04-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -355,7 +362,7 @@
   </url>
   
   <url>
-    <loc>https://hcy-08.github.io/categories/Coding/Note/</loc>
+    <loc>https://hcy-08.github.io/categories/Adventure/Life/</loc>
     <lastmod>2022-04-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -363,13 +370,6 @@
   
   <url>
     <loc>https://hcy-08.github.io/categories/Adventure/Past/</loc>
-    <lastmod>2022-04-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hcy-08.github.io/categories/Adventure/Life/</loc>
     <lastmod>2022-04-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
