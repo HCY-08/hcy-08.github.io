@@ -41,9 +41,9 @@ https://hcy-08.github.io/categories/Adventure/
 https://hcy-08.github.io/categories/Start/
 https://hcy-08.github.io/categories/Coding/C/
 https://hcy-08.github.io/categories/Others/
-https://hcy-08.github.io/categories/Coding/Note/
 https://hcy-08.github.io/categories/Adventure/Past/
-https://hcy-08.github.io/categories/Adventure/Dream/
+https://hcy-08.github.io/categories/Coding/Note/
 https://hcy-08.github.io/categories/Adventure/Life/
+https://hcy-08.github.io/categories/Adventure/Dream/
 https://hcy-08.github.io/categories/Coding/JS/
 https://hcy-08.github.io/categories/Z-Template/
