@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hcy-08.github.io/2022/04/24/Melody/</loc>
+    
+    <lastmod>2022-05-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hcy-08.github.io/2022/05/01/Purple-Sky/</loc>
     
     <lastmod>2022-05-01</lastmod>
@@ -227,15 +236,6 @@
   </url>
   
   <url>
-    <loc>https://hcy-08.github.io/2022/04/24/Melody/</loc>
-    
-    <lastmod>2022-04-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hcy-08.github.io/2022/04/26/C-Linked-List-Practice/</loc>
     
     <lastmod>2022-04-28</lastmod>
@@ -338,13 +338,6 @@
   </url>
   
   <url>
-    <loc>https://hcy-08.github.io/categories/Adventure/</loc>
-    <lastmod>2022-05-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://hcy-08.github.io/categories/Blog-Log/Anytime/</loc>
     <lastmod>2022-05-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -359,7 +352,14 @@
   </url>
   
   <url>
-    <loc>https://hcy-08.github.io/categories/Coding/C/</loc>
+    <loc>https://hcy-08.github.io/categories/Adventure/</loc>
+    <lastmod>2022-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hcy-08.github.io/categories/Coding/Note/</loc>
     <lastmod>2022-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -373,7 +373,14 @@
   </url>
   
   <url>
-    <loc>https://hcy-08.github.io/categories/Coding/Note/</loc>
+    <loc>https://hcy-08.github.io/categories/Z-Template/</loc>
+    <lastmod>2022-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hcy-08.github.io/categories/Coding/C/</loc>
     <lastmod>2022-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -402,13 +409,6 @@
   
   <url>
     <loc>https://hcy-08.github.io/categories/Coding/JS/</loc>
-    <lastmod>2022-05-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hcy-08.github.io/categories/Z-Template/</loc>
     <lastmod>2022-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

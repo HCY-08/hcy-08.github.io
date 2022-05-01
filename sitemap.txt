@@ -1,3 +1,4 @@
+https://hcy-08.github.io/2022/04/24/Melody/
 https://hcy-08.github.io/2022/05/01/Purple-Sky/
 https://hcy-08.github.io/2022/05/01/Games-Money-Hierarchy/
 https://hcy-08.github.io/2022/04/30/Problems-And-Bugs/
@@ -23,7 +24,6 @@ https://hcy-08.github.io/2022/04/24/JS-Fetching-Data/
 https://hcy-08.github.io/2022/04/26/JS-Function-Practice/
 https://hcy-08.github.io/2022/04/27/Junior-High-and-Performance/
 https://hcy-08.github.io/2022/04/25/London-Fog/
-https://hcy-08.github.io/2022/04/24/Melody/
 https://hcy-08.github.io/2022/04/26/C-Linked-List-Practice/
 https://hcy-08.github.io/2022/04/25/4-25-Update-Log/
 https://hcy-08.github.io/2022/04/26/4-26-Update-Log/
@@ -36,14 +36,14 @@ https://hcy-08.github.io/tags/Ms-S/
 https://hcy-08.github.io/categories/Blog-Log/
 https://hcy-08.github.io/categories/Blog-Log/Update/
 https://hcy-08.github.io/categories/Coding/
-https://hcy-08.github.io/categories/Adventure/
 https://hcy-08.github.io/categories/Blog-Log/Anytime/
 https://hcy-08.github.io/categories/Start/
-https://hcy-08.github.io/categories/Coding/C/
-https://hcy-08.github.io/categories/Others/
+https://hcy-08.github.io/categories/Adventure/
 https://hcy-08.github.io/categories/Coding/Note/
+https://hcy-08.github.io/categories/Others/
+https://hcy-08.github.io/categories/Z-Template/
+https://hcy-08.github.io/categories/Coding/C/
 https://hcy-08.github.io/categories/Adventure/Past/
 https://hcy-08.github.io/categories/Adventure/Life/
 https://hcy-08.github.io/categories/Adventure/Dream/
 https://hcy-08.github.io/categories/Coding/JS/
-https://hcy-08.github.io/categories/Z-Template/
