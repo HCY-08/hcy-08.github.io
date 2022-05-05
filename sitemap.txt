@@ -1,8 +1,11 @@
+https://hcy-08.github.io/2022/05/05/React-Note/
+https://hcy-08.github.io/2022/05/05/JS-DOM-Array/
+https://hcy-08.github.io/2022/04/29/JS-Note/
+https://hcy-08.github.io/2022/05/05/JS-Sort-Method/
 https://hcy-08.github.io/2022/05/04/Python-Basic-Plot/
 https://hcy-08.github.io/2022/05/05/Python-Note/
 https://hcy-08.github.io/2022/05/03/Python-2D-Array-1/
 https://hcy-08.github.io/2022/05/05/JS-Toggle-Button/
-https://hcy-08.github.io/2022/05/05/JS-DOM-Array/
 https://hcy-08.github.io/2022/05/05/JS-Function-Habit/
 https://hcy-08.github.io/2022/05/03/Mage-and-Swordsman/
 https://hcy-08.github.io/2022/05/03/Python-2D-Array-2/
@@ -12,7 +15,6 @@ https://hcy-08.github.io/2022/05/01/Purple-Sky/
 https://hcy-08.github.io/2022/05/01/Games-Money-Hierarchy/
 https://hcy-08.github.io/2022/04/30/Problems-And-Bugs/
 https://hcy-08.github.io/2022/04/29/4-29-Update-Log/
-https://hcy-08.github.io/2022/04/29/JS-Note/
 https://hcy-08.github.io/2022/04/30/4-30-Update-Log/
 https://hcy-08.github.io/2022/04/28/Planning-To-Update/
 https://hcy-08.github.io/2022/04/30/HTML-DOM-Note/
@@ -52,8 +54,8 @@ https://hcy-08.github.io/categories/Adventure/Past/
 https://hcy-08.github.io/categories/Adventure/Life/
 https://hcy-08.github.io/categories/Adventure/Dream/
 https://hcy-08.github.io/categories/Coding/Note/
-https://hcy-08.github.io/categories/Others/
 https://hcy-08.github.io/categories/Coding/C/
+https://hcy-08.github.io/categories/Others/
 https://hcy-08.github.io/categories/Coding/Python/
 https://hcy-08.github.io/categories/Coding/JS/
 https://hcy-08.github.io/categories/Z-Template/
