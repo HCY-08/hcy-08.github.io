@@ -1,3 +1,9 @@
+https://hcy-08.github.io/2022/04/26/C-Linked-List-Practice/
+https://hcy-08.github.io/2022/05/05/JS-Toggle-Button/
+https://hcy-08.github.io/2022/05/05/JS-Sort-Method/
+https://hcy-08.github.io/2022/04/26/JS-Function-Practice/
+https://hcy-08.github.io/2022/04/24/JS-Fetching-Data/
+https://hcy-08.github.io/2022/05/05/JS-DOM-Array/
 https://hcy-08.github.io/2022/04/23/Joyful/
 https://hcy-08.github.io/2022/04/25/London-Fog/
 https://hcy-08.github.io/2022/04/29/First-Half-Introspection/
@@ -10,9 +16,6 @@ https://hcy-08.github.io/2022/04/29/JS-Note/
 https://hcy-08.github.io/2022/05/03/Python-2D-Array-2/
 https://hcy-08.github.io/2022/05/03/Python-2D-Array-1/
 https://hcy-08.github.io/2022/04/28/Planning-To-Update/
-https://hcy-08.github.io/2022/05/05/JS-Toggle-Button/
-https://hcy-08.github.io/2022/05/05/JS-DOM-Array/
-https://hcy-08.github.io/2022/05/05/JS-Sort-Method/
 https://hcy-08.github.io/2022/05/04/Python-Basic-Plot/
 https://hcy-08.github.io/2022/05/05/JS-Function-Habit/
 https://hcy-08.github.io/2022/05/03/Mage-and-Swordsman/
@@ -32,10 +35,7 @@ https://hcy-08.github.io/2022/04/22/First-Blog/
 https://hcy-08.github.io/2022/04/27/Hunting-By-Mice/
 https://hcy-08.github.io/2022/04/21/hello-world/
 https://hcy-08.github.io/2022/04/27/Fifth-Day-Away/
-https://hcy-08.github.io/2022/04/24/JS-Fetching-Data/
-https://hcy-08.github.io/2022/04/26/JS-Function-Practice/
 https://hcy-08.github.io/2022/04/27/Junior-High-and-Performance/
-https://hcy-08.github.io/2022/04/26/C-Linked-List-Practice/
 https://hcy-08.github.io/2022/04/25/4-25-Update-Log/
 https://hcy-08.github.io/2022/04/26/4-26-Update-Log/
 https://hcy-08.github.io/2022/04/27/4-27-Update-Log/
@@ -51,11 +51,11 @@ https://hcy-08.github.io/categories/Coding/
 https://hcy-08.github.io/categories/Blog-Log/Anytime/
 https://hcy-08.github.io/categories/Start/
 https://hcy-08.github.io/categories/Adventure/Past/
-https://hcy-08.github.io/categories/Adventure/Dream/
-https://hcy-08.github.io/categories/Adventure/Life/
-https://hcy-08.github.io/categories/Coding/C/
-https://hcy-08.github.io/categories/Others/
 https://hcy-08.github.io/categories/Coding/Note/
-https://hcy-08.github.io/categories/Coding/Python/
+https://hcy-08.github.io/categories/Coding/C/
 https://hcy-08.github.io/categories/Coding/JS/
+https://hcy-08.github.io/categories/Adventure/Life/
+https://hcy-08.github.io/categories/Adventure/Dream/
+https://hcy-08.github.io/categories/Others/
+https://hcy-08.github.io/categories/Coding/Python/
 https://hcy-08.github.io/categories/Z-Template/
