@@ -1,3 +1,4 @@
+https://hcy-08.github.io/2022/05/04/Python-Basic-Plot/
 https://hcy-08.github.io/2022/04/28/Planning-To-Update/
 https://hcy-08.github.io/2022/04/30/Problems-And-Bugs/
 https://hcy-08.github.io/2022/04/26/C-Linked-List-Practice/
@@ -17,7 +18,6 @@ https://hcy-08.github.io/2022/04/29/C-Note/
 https://hcy-08.github.io/2022/04/29/JS-Note/
 https://hcy-08.github.io/2022/05/03/Python-2D-Array-2/
 https://hcy-08.github.io/2022/05/03/Python-2D-Array-1/
-https://hcy-08.github.io/2022/05/04/Python-Basic-Plot/
 https://hcy-08.github.io/2022/05/05/JS-Function-Habit/
 https://hcy-08.github.io/2022/05/03/Mage-and-Swordsman/
 https://hcy-08.github.io/2022/05/03/Be-Awesome/
