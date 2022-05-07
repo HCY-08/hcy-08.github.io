@@ -1,3 +1,4 @@
+https://hcy-08.github.io/2022/05/07/Ice-Drip/
 https://hcy-08.github.io/2022/05/04/Python-Basic-Plot/
 https://hcy-08.github.io/2022/04/28/Planning-To-Update/
 https://hcy-08.github.io/2022/04/30/Problems-And-Bugs/
@@ -48,14 +49,14 @@ https://hcy-08.github.io/categories/Blog-Log/
 https://hcy-08.github.io/categories/Blog-Log/Update/
 https://hcy-08.github.io/categories/Adventure/
 https://hcy-08.github.io/categories/Coding/
-https://hcy-08.github.io/categories/Blog-Log/Anytime/
 https://hcy-08.github.io/categories/Start/
-https://hcy-08.github.io/categories/Adventure/Past/
-https://hcy-08.github.io/categories/Coding/Note/
-https://hcy-08.github.io/categories/Coding/C/
-https://hcy-08.github.io/categories/Coding/JS/
+https://hcy-08.github.io/categories/Blog-Log/Anytime/
 https://hcy-08.github.io/categories/Adventure/Life/
+https://hcy-08.github.io/categories/Adventure/Past/
+https://hcy-08.github.io/categories/Coding/C/
 https://hcy-08.github.io/categories/Adventure/Dream/
+https://hcy-08.github.io/categories/Coding/Note/
 https://hcy-08.github.io/categories/Others/
 https://hcy-08.github.io/categories/Coding/Python/
 https://hcy-08.github.io/categories/Z-Template/
+https://hcy-08.github.io/categories/Coding/JS/
