@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hcy-08.github.io/2022/05/08/Whirling-on-the-ground/</loc>
+    
+    <lastmod>2022-05-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hcy-08.github.io/2022/05/03/Python-2D-Array-2/</loc>
     
     <lastmod>2022-05-08</lastmod>
@@ -481,7 +490,7 @@
   </url>
   
   <url>
-    <loc>https://hcy-08.github.io/categories/Coding/Note/</loc>
+    <loc>https://hcy-08.github.io/categories/Coding/C/</loc>
     <lastmod>2022-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -495,7 +504,7 @@
   </url>
   
   <url>
-    <loc>https://hcy-08.github.io/categories/Coding/C/</loc>
+    <loc>https://hcy-08.github.io/categories/Coding/Note/</loc>
     <lastmod>2022-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -509,14 +518,14 @@
   </url>
   
   <url>
-    <loc>https://hcy-08.github.io/categories/Coding/JS/</loc>
+    <loc>https://hcy-08.github.io/categories/Coding/Python/</loc>
     <lastmod>2022-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hcy-08.github.io/categories/Coding/Python/</loc>
+    <loc>https://hcy-08.github.io/categories/Coding/JS/</loc>
     <lastmod>2022-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
