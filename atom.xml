@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>HCY Blog</title>
+  <title>HCY Note</title>
   
   <subtitle>Recording by my laptop</subtitle>
   <link href="https://hcy-08.github.io/atom.xml" rel="self"/>
