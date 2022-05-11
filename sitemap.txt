@@ -1,5 +1,5 @@
-https://hcy-08.github.io/categories/index.html
 https://hcy-08.github.io/2022/05/11/JS-Asynchronous/
+https://hcy-08.github.io/categories/index.html
 https://hcy-08.github.io/2022/05/11/LC-1-Two-Sum/
 https://hcy-08.github.io/2022/04/28/Planning-To-Update/
 https://hcy-08.github.io/2022/04/29/JS-Note/
