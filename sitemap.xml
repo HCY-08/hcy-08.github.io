@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://hcy-08.github.io/2022/05/11/LC-1-Two-Sum/</loc>
+    <loc>https://hcy-08.github.io/2022/05/11/JS-Asynchronous/</loc>
     
     <lastmod>2022-05-11</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://hcy-08.github.io/2022/05/11/JS-Asynchronous/</loc>
+    <loc>https://hcy-08.github.io/2022/05/11/LC-1-Two-Sum/</loc>
     
     <lastmod>2022-05-11</lastmod>
     
@@ -525,14 +525,14 @@
   </url>
   
   <url>
-    <loc>https://hcy-08.github.io/categories/Others/</loc>
+    <loc>https://hcy-08.github.io/categories/Blog-Log/Anytime/</loc>
     <lastmod>2022-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hcy-08.github.io/categories/Blog-Log/Anytime/</loc>
+    <loc>https://hcy-08.github.io/categories/Others/</loc>
     <lastmod>2022-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -581,14 +581,14 @@
   </url>
   
   <url>
-    <loc>https://hcy-08.github.io/categories/Coding/Note/</loc>
+    <loc>https://hcy-08.github.io/categories/Coding/LeetCode/</loc>
     <lastmod>2022-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hcy-08.github.io/categories/Coding/LeetCode/</loc>
+    <loc>https://hcy-08.github.io/categories/Coding/Note/</loc>
     <lastmod>2022-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
