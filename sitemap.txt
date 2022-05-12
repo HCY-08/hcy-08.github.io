@@ -1,3 +1,4 @@
+https://hcy-08.github.io/2022/04/29/Customs/
 https://hcy-08.github.io/2022/05/11/JS-Asynchronous/
 https://hcy-08.github.io/2022/04/29/C-Note/
 https://hcy-08.github.io/2022/04/29/JS-Note/
@@ -5,7 +6,6 @@ https://hcy-08.github.io/2022/04/30/HTML-DOM-Note/
 https://hcy-08.github.io/2022/05/05/Python-Note/
 https://hcy-08.github.io/2022/05/05/React-Note/
 https://hcy-08.github.io/categories/index.html
-https://hcy-08.github.io/2022/04/29/Customs/
 https://hcy-08.github.io/2022/04/28/Planning-To-Update/
 https://hcy-08.github.io/2022/04/30/Problems-And-Bugs/
 https://hcy-08.github.io/2022/05/11/5-11-Update-Log/
