@@ -1,3 +1,4 @@
+https://hcy-08.github.io/2022/05/13/LC-14-Longest-Common-Prefix/
 https://hcy-08.github.io/2022/05/13/LC-13-Roman-to-Integer/
 https://hcy-08.github.io/2022/05/12/LC-9-Palindrome-Number/
 https://hcy-08.github.io/2022/05/11/LC-1-Two-Sum/
@@ -57,17 +58,17 @@ https://hcy-08.github.io/
 https://hcy-08.github.io/tags/Ms-S/
 https://hcy-08.github.io/categories/Blog-Log/
 https://hcy-08.github.io/categories/Blog-Log/Update/
-https://hcy-08.github.io/categories/Coding/
 https://hcy-08.github.io/categories/Adventure/
-https://hcy-08.github.io/categories/Blog-Log/Anytime/
+https://hcy-08.github.io/categories/Coding/
 https://hcy-08.github.io/categories/Others/
+https://hcy-08.github.io/categories/Blog-Log/Anytime/
 https://hcy-08.github.io/categories/Start/
+https://hcy-08.github.io/categories/Adventure/Past/
 https://hcy-08.github.io/categories/Coding/JS/
 https://hcy-08.github.io/categories/Coding/C/
-https://hcy-08.github.io/categories/Adventure/Past/
 https://hcy-08.github.io/categories/Adventure/Life/
+https://hcy-08.github.io/categories/Coding/LeetCode/
 https://hcy-08.github.io/categories/Adventure/Dream/
 https://hcy-08.github.io/categories/Coding/Note/
-https://hcy-08.github.io/categories/Coding/LeetCode/
 https://hcy-08.github.io/categories/Coding/Python/
 https://hcy-08.github.io/categories/Z-Template/
