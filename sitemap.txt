@@ -1,4 +1,5 @@
 https://hcy-08.github.io/2022/05/11/LC-1-Two-Sum/
+https://hcy-08.github.io/2022/05/12/LC-9-Palindrome-Number/
 https://hcy-08.github.io/2022/04/29/C-Note/
 https://hcy-08.github.io/2022/04/29/JS-Note/
 https://hcy-08.github.io/2022/04/29/Customs/
