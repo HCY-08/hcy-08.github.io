@@ -1,7 +1,8 @@
+https://hcy-08.github.io/2022/05/14/Linux-Note/
+https://hcy-08.github.io/2022/04/28/Planning-To-Update/
 https://hcy-08.github.io/2022/05/13/LC-14-Longest-Common-Prefix/
 https://hcy-08.github.io/2022/05/13/5-13-Update-Log/
 https://hcy-08.github.io/2022/05/03/Mage-and-Swordsman/
-https://hcy-08.github.io/2022/04/28/Planning-To-Update/
 https://hcy-08.github.io/2022/04/29/Customs/
 https://hcy-08.github.io/about/index.html
 https://hcy-08.github.io/2022/05/03/Python-2D-Array-2/
@@ -66,10 +67,10 @@ https://hcy-08.github.io/categories/Blog-Log/Anytime/
 https://hcy-08.github.io/categories/Start/
 https://hcy-08.github.io/categories/Adventure/Past/
 https://hcy-08.github.io/categories/Adventure/Life/
+https://hcy-08.github.io/categories/Coding/JS/
 https://hcy-08.github.io/categories/Coding/Note/
 https://hcy-08.github.io/categories/Adventure/Dream/
 https://hcy-08.github.io/categories/Coding/LeetCode/
 https://hcy-08.github.io/categories/Coding/C/
 https://hcy-08.github.io/categories/Coding/Python/
-https://hcy-08.github.io/categories/Coding/JS/
 https://hcy-08.github.io/categories/Z-Template/
