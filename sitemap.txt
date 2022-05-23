@@ -1,6 +1,7 @@
+https://hcy-08.github.io/2022/05/23/Linux-Log-5-24/
+https://hcy-08.github.io/2022/05/18/Linux-Log-5-18/
 https://hcy-08.github.io/2022/05/22/Healing/
 https://hcy-08.github.io/2022/04/24/Melody/
-https://hcy-08.github.io/2022/05/18/Linux-Log-5-18/
 https://hcy-08.github.io/2022/05/14/Linux-Problems/
 https://hcy-08.github.io/2022/05/17/5-17-Update-Log/
 https://hcy-08.github.io/2022/04/28/Planning-To-Update/
@@ -71,11 +72,11 @@ https://hcy-08.github.io/categories/Others/
 https://hcy-08.github.io/categories/Start/
 https://hcy-08.github.io/categories/Adventure/Past/
 https://hcy-08.github.io/categories/Coding/JS/
+https://hcy-08.github.io/categories/Coding/Note/
 https://hcy-08.github.io/categories/Coding/C/
 https://hcy-08.github.io/categories/Adventure/Dream/
-https://hcy-08.github.io/categories/Coding/Note/
-https://hcy-08.github.io/categories/Adventure/Life/
 https://hcy-08.github.io/categories/Coding/LeetCode/
+https://hcy-08.github.io/categories/Adventure/Life/
 https://hcy-08.github.io/categories/Linux/
 https://hcy-08.github.io/categories/Coding/Python/
 https://hcy-08.github.io/categories/Linux/Update/
