@@ -1,4 +1,6 @@
-https://hcy-08.github.io/2022/05/25/JS-Fetch-API/
+https://hcy-08.github.io/2022/05/25/JS-AJAX/
+https://hcy-08.github.io/2022/05/25/XML-Note/
+https://hcy-08.github.io/2022/04/30/HTML-DOM-Note/
 https://hcy-08.github.io/2022/05/25/Finding-someone/
 https://hcy-08.github.io/2022/05/23/Linux-Log-5-24/
 https://hcy-08.github.io/2022/05/18/Linux-Log-5-18/
@@ -22,7 +24,6 @@ https://hcy-08.github.io/2022/05/12/LC-9-Palindrome-Number/
 https://hcy-08.github.io/2022/04/29/C-Note/
 https://hcy-08.github.io/2022/04/29/JS-Note/
 https://hcy-08.github.io/2022/05/11/JS-Asynchronous/
-https://hcy-08.github.io/2022/04/30/HTML-DOM-Note/
 https://hcy-08.github.io/2022/05/05/Python-Note/
 https://hcy-08.github.io/2022/05/05/React-Note/
 https://hcy-08.github.io/categories/index.html
