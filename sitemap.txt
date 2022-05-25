@@ -1,3 +1,4 @@
+https://hcy-08.github.io/2022/05/25/JS-Fetch-API/
 https://hcy-08.github.io/2022/05/25/Finding-someone/
 https://hcy-08.github.io/2022/05/23/Linux-Log-5-24/
 https://hcy-08.github.io/2022/05/18/Linux-Log-5-18/
