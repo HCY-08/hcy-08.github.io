@@ -1,5 +1,6 @@
-https://hcy-08.github.io/2022/05/25/Finding-someone/
 https://hcy-08.github.io/2022/05/25/JS-AJAX/
+https://hcy-08.github.io/2022/04/29/JS-Note/
+https://hcy-08.github.io/2022/05/25/Finding-someone/
 https://hcy-08.github.io/2022/05/25/XML-Note/
 https://hcy-08.github.io/2022/04/30/HTML-DOM-Note/
 https://hcy-08.github.io/2022/05/23/Linux-Log-5-24/
@@ -22,7 +23,6 @@ https://hcy-08.github.io/2022/05/11/LC-1-Two-Sum/
 https://hcy-08.github.io/2022/05/13/LC-13-Roman-to-Integer/
 https://hcy-08.github.io/2022/05/12/LC-9-Palindrome-Number/
 https://hcy-08.github.io/2022/04/29/C-Note/
-https://hcy-08.github.io/2022/04/29/JS-Note/
 https://hcy-08.github.io/2022/05/11/JS-Asynchronous/
 https://hcy-08.github.io/2022/05/05/Python-Note/
 https://hcy-08.github.io/2022/05/05/React-Note/
@@ -77,8 +77,8 @@ https://hcy-08.github.io/categories/Adventure/Past/
 https://hcy-08.github.io/categories/Coding/JS/
 https://hcy-08.github.io/categories/Coding/C/
 https://hcy-08.github.io/categories/Coding/Note/
-https://hcy-08.github.io/categories/Adventure/Life/
 https://hcy-08.github.io/categories/Adventure/Dream/
+https://hcy-08.github.io/categories/Adventure/Life/
 https://hcy-08.github.io/categories/Coding/LeetCode/
 https://hcy-08.github.io/categories/Linux/
 https://hcy-08.github.io/categories/Coding/Python/
