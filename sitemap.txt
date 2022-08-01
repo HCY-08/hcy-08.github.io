@@ -1,10 +1,10 @@
+https://hcy-08.github.io/2022/04/24/Melody/
 https://hcy-08.github.io/2022/07/18/Collect/
 https://hcy-08.github.io/2022/06/14/Graduation/
 https://hcy-08.github.io/2022/07/19/Career-Note/
 https://hcy-08.github.io/2022/07/18/Roll-Back/
 https://hcy-08.github.io/2022/05/28/Strength/
 https://hcy-08.github.io/2022/06/01/Entropy-Increase/
-https://hcy-08.github.io/2022/04/24/Melody/
 https://hcy-08.github.io/2022/05/30/After-CGU/
 https://hcy-08.github.io/2022/05/28/5-28-Update-Log/
 https://hcy-08.github.io/2022/05/28/Prison/
@@ -82,8 +82,8 @@ https://hcy-08.github.io/categories/Coding/
 https://hcy-08.github.io/categories/Blog-Log/Dynamic/
 https://hcy-08.github.io/categories/Others/
 https://hcy-08.github.io/categories/Start/
-https://hcy-08.github.io/categories/Adventure/Dream/
 https://hcy-08.github.io/categories/Adventure/Life/
+https://hcy-08.github.io/categories/Adventure/Dream/
 https://hcy-08.github.io/categories/Adventure/Past/
 https://hcy-08.github.io/categories/Coding/JS/
 https://hcy-08.github.io/categories/Coding/C/

@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hcy-08.github.io/2022/04/24/Melody/</loc>
+    
+    <lastmod>2022-08-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hcy-08.github.io/2022/07/18/Collect/</loc>
     
     <lastmod>2022-07-28</lastmod>
@@ -50,15 +59,6 @@
     <loc>https://hcy-08.github.io/2022/06/01/Entropy-Increase/</loc>
     
     <lastmod>2022-06-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hcy-08.github.io/2022/04/24/Melody/</loc>
-    
-    <lastmod>2022-05-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -744,14 +744,14 @@
   </url>
   
   <url>
-    <loc>https://hcy-08.github.io/categories/Adventure/Dream/</loc>
+    <loc>https://hcy-08.github.io/categories/Adventure/Life/</loc>
     <lastmod>2022-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hcy-08.github.io/categories/Adventure/Life/</loc>
+    <loc>https://hcy-08.github.io/categories/Adventure/Dream/</loc>
     <lastmod>2022-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
