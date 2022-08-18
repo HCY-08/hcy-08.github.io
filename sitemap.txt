@@ -1,3 +1,4 @@
+https://hcy-08.github.io/2022/08/18/Python-RPG-Battle-Script/
 https://hcy-08.github.io/2022/08/15/European-Town/
 https://hcy-08.github.io/2022/08/04/TKDF-and-Temple/
 https://hcy-08.github.io/2022/04/24/Melody/
@@ -84,8 +85,8 @@ https://hcy-08.github.io/categories/Coding/
 https://hcy-08.github.io/categories/Blog-Log/Dynamic/
 https://hcy-08.github.io/categories/Others/
 https://hcy-08.github.io/categories/Start/
-https://hcy-08.github.io/categories/Adventure/Life/
 https://hcy-08.github.io/categories/Adventure/Dream/
+https://hcy-08.github.io/categories/Adventure/Life/
 https://hcy-08.github.io/categories/Adventure/Past/
 https://hcy-08.github.io/categories/Coding/C/
 https://hcy-08.github.io/categories/Coding/JS/
