@@ -1,3 +1,4 @@
+https://hcy-08.github.io/2022/08/21/X/
 https://hcy-08.github.io/2022/08/18/Python-RPG-Battle-Script/
 https://hcy-08.github.io/2022/08/15/European-Town/
 https://hcy-08.github.io/2022/08/04/TKDF-and-Temple/
@@ -98,3 +99,4 @@ https://hcy-08.github.io/categories/Adventure/Article/
 https://hcy-08.github.io/categories/Linux/Update/
 https://hcy-08.github.io/categories/Linux/Dynamic/
 https://hcy-08.github.io/categories/Z-Template/
+https://hcy-08.github.io/categories/X/
