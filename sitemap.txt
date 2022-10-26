@@ -1,3 +1,4 @@
+https://hcy-08.github.io/2022/10/26/Linux-Log-10-26/
 https://hcy-08.github.io/2022/10/11/DB-Note/
 https://hcy-08.github.io/2022/04/29/JS-Note/
 https://hcy-08.github.io/2022/04/28/4-28-Update-Log/
@@ -92,8 +93,8 @@ https://hcy-08.github.io/categories/Blog-Log/Update/
 https://hcy-08.github.io/categories/Adventure/
 https://hcy-08.github.io/categories/Coding/
 https://hcy-08.github.io/categories/Blog-Log/Dynamic/
-https://hcy-08.github.io/categories/Others/
 https://hcy-08.github.io/categories/Start/
+https://hcy-08.github.io/categories/Others/
 https://hcy-08.github.io/categories/Adventure/Life/
 https://hcy-08.github.io/categories/Adventure/Dream/
 https://hcy-08.github.io/categories/Adventure/Past/
@@ -106,9 +107,9 @@ https://hcy-08.github.io/categories/Linux/
 https://hcy-08.github.io/categories/Coding/Python/
 https://hcy-08.github.io/categories/Coding/C/Programs/
 https://hcy-08.github.io/categories/Adventure/Article/
-https://hcy-08.github.io/categories/Coding/C/Notes/
-https://hcy-08.github.io/categories/X/
 https://hcy-08.github.io/categories/Coding/JS/Programs/
+https://hcy-08.github.io/categories/X/
+https://hcy-08.github.io/categories/Coding/C/Notes/
 https://hcy-08.github.io/categories/Coding/JS/Notes/
 https://hcy-08.github.io/categories/Coding/Database/Notes/
 https://hcy-08.github.io/categories/Linux/Trouble-Shooting/
